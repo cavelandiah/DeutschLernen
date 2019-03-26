@@ -1,0 +1,20 @@
+#Infinitiv      Präsens Präteritum      Perfeckt
+lieben	liebt	liebte	haben_geliebt	amar
+kleben	kliebt	klöbe	haben_gekloben	pegar
+belfern	belfert	belferte	haben_gebelfert	ladrar
+chatten	chattet	chattete	haben_gechattet	chatear
+wissen	weiß	wüsste	haben_gewusst	saber
+schnabulieren	schnabuliert	schnabulierte	haben_schnabuliert	comer_con_apetito
+brechen	bricht	bräche	haben_gebrochen	quebrar
+abbrechen	bricht_ab	bräche_ab	haben_abgebrochen	suspender
+anbrechen	bricht_an	bräche_an	haben_angebrochen	empezar
+aufbrechen	bricht_auf	bräche_auf	sein_aufgebrochen	partir
+ausbrechen	bricht_aus	bräche_aus	haben_ausgebrochen	desencadenar
+einbrechen	bricht_ein	bräche_ein	sein_eingebrochen	entrar_a_robar
+verbrechen	verbricht	verbräche	haben_verbrochen	cometer_algo
+zerbrechen	zerbricht	zerbräche	haben_zerbrochen	deshacer
+büffeln	büffelt	büffelte	haben_gebüffelt	empollar
+oktroyieren	oktroyiert	oktroyierte	haben_oktroyiert	imponer_algo_a_alguien
+winken	winkt	winkte	haben_gewinkt	saludar
+machen	macht	machte	haben_gemacht	hacer
+schmeißen	schmeißt	schmisse	haben_geschmissen	tirar_algo
