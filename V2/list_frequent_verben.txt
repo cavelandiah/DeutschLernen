@@ -1,0 +1,997 @@
+wissen	weiß	wüsste	haben_gewusst
+machen	macht	machte	haben_gemacht
+untersuchen	untersucht	untersuchte	haben_untersucht
+wohnen	wohnt	wohnte	haben_gewohnt
+sehen	sieht	sähe	haben_gesehen
+gehen	geht	ginge	sein_gegangen
+sprechen	spricht	spräche	haben_gesprochen
+liegen	liegt	läge	haben_gelegen
+fliegen	fliegt	flöge	sein_geflogen
+verstehen	versteht	verstände	haben_verstanden
+lesen	liest	läse	haben_gelesen
+fernsehen	sieht fern	sähe fern	haben_ferngesehen
+arbeiten	arbeitet	arbeitete	haben_gearbeitet
+denken	denkt	dächte	haben_gedacht
+sitzen	sitzt	säße	haben_gesessen
+schreiben	schreibt	schriebe	haben_geschrieben
+verlieren	verliert	verlöre	haben_verloren
+lernen	lernt	lernte	haben_gelernt
+stehen	steht	stünde	haben_gestanden
+ansagen	sagt an	sagte an	haben_angesagt
+vermeinen	vermeint	vermeinte	haben_vermeint
+reden	redet	redete	haben_geredet
+suchen	sucht	suchte	haben_gesucht
+wollen	will	wollte	haben_gewollt
+anstellen	stellt an	stellte an	haben_angestellt
+schaffen	schafft	schüfe	haben_geschaffen
+lassen	lässt	ließe	haben_gelassen
+aufstehen	steht auf	stände auf	sein_aufgestanden
+unterhalten	unterhält	unterhielte	haben_unterhalten
+anbieten	bietet an	böte an	haben_angeboten
+bekommen	bekommt	bekäme	haben_bekommen
+geben	gibt	gäbe	haben_gegeben
+ziehen	zieht	zöge	haben_gezogen
+zunehmen	nimmt zu	nähme zu	haben_zugenommen
+abnehmen	nimmt ab	nähme ab	haben_abgenommen
+handeln	handelt	handelte	haben_gehandelt
+scheißen	scheißt	schisse	haben_geschissen
+überlegen	überlegt	überlegte	haben_überlegt
+spielen	spielt	spielte	haben_gespielt
+gewinnen	gewinnt	gewönne	haben_gewonnen
+fallen	fällt	fiele	sein_gefallen
+besuchen	besucht	besuchte	haben_besucht
+leben	lebt	lebte	haben_gelebt
+auseinandersetzen	setzt auseinander	setzte auseinander	haben_auseinandergesetzt
+verklären	verklärt	verklärte	haben_verklärt
+abbefehlen	befiehlt ab	beföhle ab	haben_abbefohlen
+abbekommen	bekommt ab	bekäme ab	haben_abbekommen
+übersetzen	übersetzt	übersetzte	haben_übersetzt
+finden	findet	fände	haben_gefunden
+bereitstellen	stellt bereit	stellte bereit	haben_bereitgestellt
+sagen	sagt	sagte	haben_gesagt
+bringen	bringt	brächte	haben_gebracht
+tragen	trägt	trüge	haben_getragen
+vorstellen	stellt vor	stellte vor	haben_vorgestellt
+widersprechen	widerspricht	widerspräche	haben_widersprochen
+kennen	kennt	kennte	haben_gekannt
+befehlen	befiehlt	befähle	haben_befohlen
+beginnen	beginnt	begönne	haben_begonnen
+fahren	fährt	führe	sein_gefahren
+tun	tut	täte	haben_getan
+erfahren	erfährt	erführe	haben_erfahren
+übertragen	überträgt	übertrüge	haben_übertragen
+herbringen	bringt her	brächte her	haben_hergebracht
+anziehen	zieht an	zöge an	haben_angezogen
+glauben	glaubt	glaubte	haben_geglaubt
+mögen	mag	möchte	haben_gemocht
+fühlen	fühlt	fühlte	haben_gefühlt
+ankommen	kommt an	käme an	sein_angekommen
+betreffen	betrifft	beträfe	haben_betroffen
+überdenken	überdenkt	überdächte	haben_überdacht
+abbestellen	bestellt ab	bestellte ab	haben_abbestellt
+erlegen	erlegt	erlegte	haben_erlegt
+abbilden	bildet ab	bildete ab	haben_abgebildet
+abbringen	bringt ab	brächte ab	haben_abgebracht
+aussehen	sieht aus	sähe aus	haben_ausgesehen
+blaumachen	macht blau	machte blau	haben_blaugemacht
+helfen	hilft	hülfe	haben_geholfen
+sicherstellen	stellt sicher	stellte sicher	haben_sichergestellt
+kommen	kommt	käme	sein_gekommen
+schwarzsehen	sieht schwarz	sähe schwarz	haben_schwarzgesehen
+aussprechen	spricht aus	spräche aus	haben_ausgesprochen
+nehmen	nimmt	nähme	haben_genommen
+annehmen	nimmt an	nähme an	haben_angenommen
+kleinschreiben	schreibt klein	schriebe klein	haben_kleingeschrieben
+anlegen	legt an	legte an	haben_angelegt
+abarbeiten	arbeitet ab	arbeitete ab	haben_abgearbeitet
+eingeben	gibt ein	gäbe ein	haben_eingegeben
+hinterlassen	hinterlässt	hinterließe	haben_hinterlassen
+stinken	stinkt	stänke	haben_gestunken
+belegen	belegt	belegte	haben_belegt
+aufgeben	gibt auf	gäbe auf	haben_aufgegeben
+widerfahren	widerfährt	widerführe	sein_widerfahren
+erfinden	erfindet	erfände	haben_erfunden
+anmachen	macht an	machte an	haben_angemacht
+aberkennen	erkennt ab	erkennte ab	haben_aberkannt
+abfahren	fährt ab	führe ab	sein_abgefahren
+bedenken	bedenkt	bedächte	haben_bedacht
+umfahren	umfährt	umführe	haben_umfahren
+benedeien	benedeit	benedeite	haben_gebenedeit
+anhalten	hält an	hielte an	haben_angehalten
+legen	legt	legte	haben_gelegt
+fragen	fragt	fragte	haben_gefragt
+erfragen	erfragt	erfragte	haben_erfragt
+befragen	befragt	befragte	haben_befragt
+erhalten	erhält	erhielte	haben_erhalten
+führen	führt	führte	haben_geführt
+sollen	soll	sollte	haben_gesollt
+bilden	bildet	bildete	haben_gebildet
+befinden	befindet	befände	haben_befunden
+bestehen	besteht	bestände	haben_bestanden
+erreichen	erreicht	erreichte	haben_erreicht
+stellen	stellt	stellte	haben_gestellt
+bedeuten	bedeutet	bedeutete	haben_bedeutet
+darstellen	stellt dar	stellte dar	haben_dargestellt
+enthalten	enthält	enthielte	haben_enthalten
+entstehen	entsteht	entstände	sein_entstanden
+zeigen	zeigt	zeigte	haben_gezeigt
+gelten	gilt	gälte	haben_gegolten
+bleiben	bleibt	bliebe	sein_geblieben
+besitzen	besitzt	besäße	haben_besessen
+dürfen	darf	dürfte	haben_gedurft
+halten	hält	hielte	haben_gehalten
+erkennen	erkennt	erkennte	haben_erkannt
+gebrauchen	gebraucht	gebrauchte	haben_gebraucht
+brauchen	braucht	brauchte	haben_gebraucht
+bieten	bietet	böte	haben_geboten
+entsprechen	entspricht	entspräche	haben_entsprochen
+ergeben	ergibt	ergäbe	haben_ergeben
+erscheinen	erscheint	erschiene	sein_erschienen
+verlassen	verlässt	verließe	haben_verlassen
+entwickeln	entwickelt	entwickelte	haben_entwickelt
+setzen	setzt	setzte	haben_gesetzt
+studieren	studiert	studierte	haben_studiert
+erfolgen	erfolgt	erfolgte	sein_erfolgt
+versuchen	versucht	versuchte	haben_versucht
+aufkommen	kommt auf	käme auf	sein_aufgekommen
+treffen	trifft	träfe	haben_getroffen
+folgen	folgt	folgte	sein_gefolgt
+versehen	versieht	versähe	haben_versehen
+nennen	nennt	nennte	haben_genannt
+entschließen	entschließt	entschlösse	haben_entschlossen
+beschließen	beschließt	beschlösse	haben_beschlossen
+verlernen	verlernt	verlernte	haben_verlernt
+erpflegen	erpflegt	erpflegte	haben_erpflegt
+pflegen	pflegt	pflegte	haben_gepflegt
+erklären	erklärt	erklärte	haben_erklärt
+verdenken	verdenkt	verdächte	haben_verdacht
+entlassen	entlässt	entließe	haben_entlassen
+heißen	heißt	hieße	haben_geheißen
+versprechen	verspricht	verspräche	haben_versprochen
+besprechen	bespricht	bespräche	haben_besprochen
+versagen	versagt	versagte	haben_versagt
+anspielen	spielt an	spielte an	haben_angespielt
+einstellen	stellt ein	stellte ein	haben_eingestellt
+erblassen	erblasst	erblasste	sein_erblasst
+abblassen	blasst ab	blasste ab	sein_abgeblasst
+schiefliegen	liegt schief	läge schief	haben_schiefgelegen
+zurückkommen	kommt zurück	käme zurück	sein_zurückgekommen
+bedürfen	bedarf	bedürfte	haben_bedurft
+überreichen	überreicht	überreichte	haben_überreicht
+kleben	klebt	klebte	haben_geklebt
+einfallen	fällt ein	fiele ein	sein_eingefallen
+hereinkommen	kommt herein	käme herein	sein_hereingekommen
+wahrnehmen	nimmt wahr	nähme wahr	haben_wahrgenommen
+aufbringen	bringt auf	brächte auf	haben_aufgebracht
+zumachen	macht zu	machte zu	haben_zugemacht
+schließen	schließt	schlösse	haben_geschlossen
+auferstehen	aufersteht	auferstünde	sein_auferstanden
+kredenzen	kredenzt	kredenzte	haben_kredenzt
+ausfallen	fällt aus	fiele aus	sein_ausgefallen
+beinhalten	beinhaltet	beinhaltete	haben_beinhaltet
+schalten	schaltet	schaltete	haben_geschaltet
+wiederbeleben	belebt wieder	belebte wieder	haben_wiederbelebt
+einpflegen	pflegt ein	pflegte ein	haben_eingepflegt
+erinnern	erinnert	erinnerte	haben_erinnert
+aufhalten	hält auf	hielte auf	haben_aufgehalten
+aufnehmen	nimmt auf	nähme auf	haben_aufgenommen
+schönreden	redet schön	redete schön	haben_schöngeredet
+umstellen	umstellt	umstellte	haben_umstellt
+herstellen	stellt her	stellte her	haben_hergestellt
+einsetzen	setzt ein	setzte ein	haben_eingesetzt
+widerlegen	widerlegt	widerlegte	haben_widerlegt
+benehmen	benimmt	benähme	haben_benommen
+aufgehen	geht auf	ginge auf	sein_aufgegangen
+behalten	behält	behielte	haben_behalten
+dicht machen	macht dicht	machte dicht	haben_dicht gemacht
+dichtmachen	macht dicht	machte dicht	haben_dichtgemacht
+nottun	tut not	täte not	haben_notgetan
+verbinden	verbindet	verbände	haben_verbunden
+entnehmen	entnimmt	entnähme	haben_entnommen
+ausziehen	zieht aus	zöge aus	sein_ausgezogen
+vergleichen	vergleicht	vergliche	haben_verglichen
+abziehen	zieht ab	zöge ab	haben_abgezogen
+abgeben	gibt ab	gäbe ab	haben_abgegeben
+blankziehen	zieht blank	zöge blank	haben_blankgezogen
+verlegen	verlegt	verlegte	haben_verlegt
+fortfahren	fährt fort	führe fort	sein_fortgefahren
+spazieren gehen	geht spazieren	ginge spazieren	sein_spazieren gegangen
+erzählen	erzählt	erzählte	haben_erzählt
+vergehen	vergeht	verginge	haben_vergangen
+umfallen	fällt um	fiele um	sein_umgefallen
+verbleiben	verbleibt	verbliebe	sein_verblieben
+vorgeben	gibt vor	gäbe vor	haben_vorgegeben
+beleben	belebt	belebte	haben_belebt
+meinen	meint	meinte	haben_gemeint
+anschließen	schließt an	schlösse an	haben_angeschlossen
+kundtun	tut kund	täte kund	haben_kundgetan
+einnehmen	nimmt ein	nähme ein	haben_eingenommen
+ausnehmen	nimmt aus	nähme aus	haben_ausgenommen
+angeben	gibt an	gäbe an	haben_angegeben
+unterstehen	untersteht	unterstünde	haben_unterstanden
+wegfahren	fährt weg	führe weg	sein_weggefahren
+umziehen	zieht um	zöge um	sein_umgezogen
+entgegenkommen	kommt entgegen	käme entgegen	sein_entgegengekommen
+verbringen	verbringt	verbrächte	haben_verbracht
+verbieten	verbietet	verböte	haben_verboten
+einführen	führt ein	führte ein	haben_eingeführt
+zurückgeben	gibt zurück	gäbe zurück	haben_zurückgegeben
+fortsetzen	setzt fort	setzte fort	haben_fortgesetzt
+vergeben	vergibt	vergäbe	haben_vergeben
+übergeben	übergibt	übergäbe	haben_übergeben
+begehen	begeht	beginge	haben_begangen
+scheinen	scheint	schiene	haben_geschienen
+abschließen	schließt ab	schlösse ab	haben_abgeschlossen
+ansehen	sieht an	sähe an	haben_angesehen
+weggehen	geht weg	ginge weg	sein_weggegangen
+aushalten	hält aus	hielte aus	haben_ausgehalten
+ansprechen	spricht an	spräche an	haben_angesprochen
+ausstellen	stellt aus	stellte aus	haben_ausgestellt
+behandeln	behandelt	behandelte	haben_behandelt
+ausgehen	geht aus	ginge aus	sein_ausgegangen
+erbieten	erbietet	erböte	haben_erboten
+anbringen	bringt an	brächte an	haben_angebracht
+empfehlen	empfiehlt	empfähle	haben_empfohlen
+abkommen	kommt ab	käme ab	sein_abgekommen
+vorkommen	kommt vor	käme vor	sein_vorgekommen
+aufziehen	zieht auf	zöge auf	haben_aufgezogen
+aufzeigen	zeigt auf	zeigte auf	haben_aufgezeigt
+eingehen	geht ein	ginge ein	sein_eingegangen
+durchführen	führt durch	führte durch	haben_durchgeführt
+zerlegen	zerlegt	zerlegte	haben_zerlegt
+warten	wartet	wartete	haben_gewartet
+empfinden	empfindet	empfände	haben_empfunden
+zufriedenstellen	stellt zufrieden	stellte zufrieden	haben_zufriedengestellt
+ertragen	erträgt	ertrüge	haben_ertragen
+wegnehmen	nimmt weg	nähme weg	haben_weggenommen
+bestellen	bestellt	bestellte	haben_bestellt
+anzeigen	zeigt an	zeigte an	haben_angezeigt
+hinausfliegen	fliegt hinaus	flöge hinaus	sein_hinausgeflogen
+gehören	gehört	gehörte	haben_gehört
+ausführen	führt aus	führte aus	haben_ausgeführt
+beschreiben	beschreibt	beschriebe	haben_beschrieben
+fortbilden	bildet fort	bildete fort	haben_fortgebildet
+abschaffen	schafft ab	schaffte ab	haben_abgeschafft
+fortfallen	fällt fort	fiele fort	sein_fortgefallen
+fortbleiben	bleibt fort	bliebe fort	sein_fortgeblieben
+fortschreiben	schreibt fort	schriebe fort	haben_fortgeschrieben
+beisetzen	setzt bei	setzte bei	haben_beigesetzt
+zerreden	zerredet	zerredete	haben_zerredet
+beibringen	bringt bei	brächte bei	haben_beigebracht
+beistehen	steht bei	stände bei	haben_beigestanden
+eintragen	trägt ein	trüge ein	haben_eingetragen
+veranlassen	veranlasst	veranlasste	haben_veranlasst
+ausschalten	schaltet aus	schaltete aus	haben_ausgeschaltet
+einschalten	schaltet ein	schaltete ein	haben_eingeschaltet
+zulassen	lässt zu	ließe zu	haben_zugelassen
+ablegen	legt ab	legte ab	haben_abgelegt
+nachdenken	denkt nach	dächte nach	haben_nachgedacht
+hervorbringen	bringt hervor	brächte hervor	haben_hervorgebracht
+vollziehen	vollzieht	vollzöge	haben_vollzogen
+aussitzen	sitzt aus	säße aus	haben_ausgesessen
+einbeziehen	bezieht ein	bezöge ein	haben_einbezogen
+überkommen	überkommt	überkäme	haben_überkommen
+zutragen	trägt zu	trüge zu	haben_zugetragen
+umschließen	umschließt	umschlösse	haben_umschlossen
+vornehmen	nimmt vor	nähme vor	haben_vorgenommen
+vorsehen	sieht vor	sähe vor	haben_vorgesehen
+abwarten	wartet ab	wartete ab	haben_abgewartet
+auskommen	kommt aus	käme aus	sein_ausgekommen
+erwarten	erwartet	erwartete	haben_erwartet
+verziehen	verzieht	verzöge	haben_verzogen
+überlassen	überlässt	überließe	haben_überlassen
+ablassen	lässt ab	ließe ab	haben_abgelassen
+anlassen	lässt an	ließe an	haben_angelassen
+ausgeben	gibt aus	gäbe aus	haben_ausgegeben
+bearbeiten	bearbeitet	bearbeitete	haben_bearbeitet
+auflassen	lässt auf	ließe auf	haben_aufgelassen
+auslassen	lässt aus	ließe aus	haben_ausgelassen
+umgehen	umgehet	umginge	haben_umgangen
+durchlassen	lässt durch	ließe durch	haben_durchgelassen
+einlassen	lässt ein	ließe ein	haben_eingelassen
+herausarbeiten	arbeitet heraus	arbeitete heraus	haben_herausgearbeitet
+aussagen	sagt aus	sagte aus	haben_ausgesagt
+auftragen	trägt auf	trüge auf	haben_aufgetragen
+belassen	belässt	beließe	haben_belassen
+unterschreiben	unterschreibt	unterschriebe	haben_unterschrieben
+fehlen	fehlt	fehlte	haben_gefehlt
+erlassen	erlässt	erließe	haben_erlassen
+frei lassen	lässt frei	ließe frei	haben_frei gelassen
+freilassen	lässt frei	ließe frei	haben_freigelassen
+verpflegen	verpflegt	verpflegte	haben_verpflegt
+anerkennen	erkennt an	erkennte an	haben_anerkannt
+abstellen	stellt ab	stellte ab	haben_abgestellt
+umbringen	bringt um	brächte um	haben_umgebracht
+entführen	entführt	entführte	haben_entführt
+übernehmen	übernimmt	übernähme	haben_übernommen
+besetzen	besetzt	besetzte	haben_besetzt
+ausmachen	macht aus	machte aus	haben_ausgemacht
+untergehen	geht unter	ginge unter	sein_untergegangen
+festhalten	hält fest	hielte fest	haben_festgehalten
+beilegen	legt bei	legte bei	haben_beigelegt
+herauskommen	kommt heraus	käme heraus	sein_herausgekommen
+durchhalten	hält durch	hielte durch	haben_durchgehalten
+einschließen	schließt ein	schlösse ein	haben_eingeschlossen
+hinnehmen	nimmt hin	nähme hin	haben_hingenommen
+beantragen	beantragt	beantragte	haben_beantragt
+ausarbeiten	arbeitet aus	arbeitete aus	haben_ausgearbeitet
+erschließen	erschließt	erschlösse	haben_erschlossen
+verzeihen	verzeiht	verziehe	haben_verziehen
+verfolgen	verfolgt	verfolgte	haben_verfolgt
+teilnehmen	nimmt teil	nähme teil	haben_teilgenommen
+verschließen	verschließt	verschlösse	haben_verschlossen
+umsetzen	setzt um	setzte um	haben_umgesetzt
+festsetzen	setzt fest	setzte fest	haben_festgesetzt
+verfallen	verfällt	verfiele	sein_verfallen
+aufmachen	macht auf	machte auf	haben_aufgemacht
+hineindenken	denkt hinein	dächte hinein	haben_hineingedacht
+reinziehen	zieht rein	zöge rein	haben_reingezogen
+auffallen	fällt auf	fiele auf	sein_aufgefallen
+nachsagen	sagt nach	sagte nach	haben_nachgesagt
+vorziehen	zieht vor	zöge vor	haben_vorgezogen
+einsehen	sieht ein	sähe ein	haben_eingesehen
+umbenennen	benennt um	benennte um	haben_umbenannt
+herüberfahren	fährt herüber	führe herüber	sein_herübergefahren
+zusammenleben	lebt zusammen	lebte zusammen	haben_zusammengelebt
+beitragen	trägt bei	trüge bei	haben_beigetragen
+vermögen	vermag	vermöchte	haben_vermocht
+zerlassen	zerlässt	zerließe	haben_zerlassen
+zugehen	geht zu	ginge zu	sein_zugegangen
+herumzeigen	zeigt herum	zeigte herum	haben_herumgezeigt
+erleben	erlebt	erlebte	haben_erlebt
+aufkleben	klebt auf	klebte auf	haben_aufgeklebt
+anfahren	fährt an	führe an	haben_angefahren
+vorbeifahren	fährt vorbei	führe vorbei	sein_vorbeigefahren
+absetzen	setzt ab	setzte ab	haben_abgesetzt
+feststellen	stellt fest	stellte fest	haben_festgestellt
+festlegen	legt fest	legte fest	haben_festgelegt
+erstellen	erstellt	erstellte	haben_erstellt
+abhalten	hält ab	hielte ab	haben_abgehalten
+zusammenarbeiten	arbeitet zusammen	arbeitete zusammen	haben_zusammengearbeitet
+gleichtun	tut gleich	täte gleich	haben_gleichgetan
+überfahren	überfährt	überführe	haben_überfahren
+einiggehen	geht einig	ginge einig	sein_einiggegangen
+anstehen	steht an	stünde an	haben_angestanden
+angehen	geht an	ginge an	sein_angegangen
+ausschließen	schließt aus	schlösse aus	haben_ausgeschlossen
+absagen	sagt ab	sagte ab	haben_abgesagt
+gegenlesen	liest gegen	läse gegen	haben_gegengelesen
+herunterfallen	fällt herunter	fiele herunter	sein_heruntergefallen
+runterfallen	fällt runter	fiele runter	sein_runtergefallen
+wehtun	tut weh	täte weh	haben_wehgetan
+rechtschreiben	—	—	—_rechtgeschrieben
+miterleben	erlebt mit	erlebte mit	haben_miterlebt
+anheimstellen	stellt anheim	stellte anheim	haben_anheimgestellt
+vortragen	trägt vor	trüge vor	haben_vorgetragen
+abgehen	geht ab	ginge ab	sein_abgegangen
+flöten gehen	geht flöten	ginge flöten	sein_flöten gegangen
+abtragen	trägt ab	trüge	haben_abgetragen
+hervorgehen	geht hervor	ginge hervor	sein_hervorgegangen
+zurückhalten	hält zurück	hielte zurück	haben_zurückgehalten
+befolgen	befolgt	befolgte	haben_befolgt
+zusprechen	spricht zu	spräche zu	haben_zugesprochen
+kommentieren	kommentiert	kommentierte	haben_kommentiert
+verschaffen	verschafft	verschaffte	haben_verschafft
+verarbeiten	verarbeitet	verarbeitete	haben_verarbeitet
+einbringen	bringt ein	brächte ein	haben_eingebracht
+erstehen	ersteht	erstünde	haben_erstanden
+abfinden	findet ab	fände ab	haben_abgefunden
+innewohnen	wohnt inne	wohnte inne	haben_innegewohnt
+übergehen	geht über	ginge über	sein_übergegangen
+hinterfragen	hinterfragt	hinterfragte	haben_hinterfragt
+hinsetzen	setzt hin	setzte hin	haben_hingesetzt
+herunternehmen	nimmt herunter	nähme herunter	haben_heruntergenommen
+hinhalten	hält hin	hielte hin	haben_hingehalten
+kennenlernen	lernt kennen	lernte kennen	haben_kennengelernt
+umgeben	gibt um	gäbe um	haben_umgegeben
+betragen	beträgt	betrüge	haben_betragen
+abschreiben	schreibt ab	schriebe ab	haben_abgeschrieben
+behelfen	behilft	behülfe	haben_beholfen
+zurückbilden	bildet zurück	bildete zurück	haben_zurückgebildet
+verspielen	verspielt	verspielte	haben_verspielt
+wiederherstellen	stellt wieder her	stellte wieder her	haben_wiederhergestellt
+abbehalten	behält ab	behielte ab	haben_abbehalten
+beziehen	bezieht	bezöge	haben_bezogen
+stattfinden	findet statt	fände statt	haben_stattgefunden
+gefallen	gefällt	gefiele	haben_gefallen
+aufstellen	stellt auf	stellte auf	haben_aufgestellt
+zusammensetzen	setzt zusammen	setzte zusammen	haben_zusammengesetzt
+zurückgehen	geht zurück	ginge zurück	sein_zurückgegangen
+vorlegen	legt vor	legte vor	haben_vorgelegt
+ausbleiben	bleibt aus	bliebe aus	sein_ausgeblieben
+zugeben	gibt zu	gäbe zu	haben_zugegeben
+versetzen	versetzt	versetzte	haben_versetzt
+zugrunde legen	legt zugrunde	legte zugrunde	haben_zugrunde gelegt
+vorgehen	geht vor	ginge vor	sein_vorgegangen
+ersetzen	ersetzt	ersetzte	haben_ersetzt
+aussetzen	setzt aus	setzte aus	haben_ausgesetzt
+verhalten	verhält	verhielte	haben_verhalten
+zurückbleiben	bleibt zurück	bliebe zurück	sein_zurückgeblieben
+wegsehen	sieht weg	sähe weg	haben_weggesehen
+ausschreiben	schreibt aus	schriebe aus	haben_ausgeschrieben
+ausreden	redet aus	redete aus	haben_ausgeredet
+verschreiben	verschreibt	verschriebe	haben_verschrieben
+weglassen	lässt weg	ließe weg	haben_weggelassen
+weglegen	legt weg	legte weg	haben_weggelegt
+fortlegen	legt fort	legte fort	haben_fortgelegt
+beiseitelegen	legt beiseite	legte beiseite	haben_beiseitegelegt
+darlegen	legt dar	legte dar	haben_dargelegt
+zusagen	sagt zu	sagte zu	haben_zugesagt
+wegziehen	zieht weg	zöge weg	sein_weggezogen
+erziehen	erzieht	erzöge	haben_erzogen
+fortgehen	geht fort	ginge fort	sein_fortgegangen
+entkommen	entkommt	entkäme	sein_entkommen
+durchsetzen	setzt durch	setzte durch	haben_durchgesetzt
+mitkommen	kommt mit	käme mit	sein_mitgekommen
+umkommen	kommt um	käme um	sein_umgekommen
+verkommen	verkommt	verkäme	sein_verkommen
+nachsetzen	setzt nach	setzte nach	haben_nachgesetzt
+vorwegnehmen	nimmt vorweg	nähme vorweg	haben_vorweggenommen
+ausdenken	denkt aus	dächte aus	haben_ausgedacht
+erdenken	erdenkt	erdächte	haben_erdacht
+gedenken	gedenkt	gedächte	haben_gedacht
+durchdenken	durchdenkt	durchdächte	haben_durchdacht
+weiterdenken	denkt weiter	dächte weiter	haben_weitergedacht
+fortdenken	denkt fort	dächte fort	haben_fortgedacht
+wegdenken	denkt weg	dächte weg	haben_weggedacht
+hinausführen	führt hinaus	führte hinaus	haben_hinausgeführt
+wiedergeben	gibt wieder	gäbe wieder	haben_wiedergegeben
+abfallen	fällt ab	fiele ab	sein_abgefallen
+abhandeln	handelt ab	handelte ab	haben_abgehandelt
+aushandeln	handelt aus	handelte aus	haben_ausgehandelt
+verhandeln	verhandelt	verhandelte	haben_verhandelt
+vorfallen	fällt vor	—	sein_vorgefallen
+herabfallen	fällt herab	fiele herab	sein_herabgefallen
+mitnehmen	nimmt mit	nähme mit	haben_mitgenommen
+heraufkommen	kommt herauf	käme herauf	sein_heraufgekommen
+herausstellen	stellt heraus	stellte heraus	haben_herausgestellt
+gegenüberstehen	steht gegenüber	stünde gegenüber	haben_gegenübergestanden
+überleben	überlebt	überlebte	haben_überlebt
+freisetzen	setzt frei	setzte frei	haben_freigesetzt
+unterstellen	unterstellt	unterstellte	haben_unterstellt
+unterlassen	unterlässt	unterließe	haben_unterlassen
+obliegen	obliegt	obläge	sein_oblegen
+überfliegen	überfliegt	überflöge	haben_überflogen
+einziehen	zieht ein	zöge ein	haben_eingezogen
+beschaffen	beschafft	beschaffte	haben_beschafft
+mitdenken	denkt mit	dächte mit	haben_mitgedacht
+bewohnen	bewohnt	bewohnte	haben_bewohnt
+hübsch machen	macht hübsch	machte hübsch	haben_hübsch gemacht
+umschreiben	umschreibt	umschriebe	haben_umschrieben
+innehalten	hält inne	hielte inne	haben_innegehalten
+herausfinden	findet heraus	fände heraus	haben_herausgefunden
+wettmachen	macht wett	machte wett	haben_wettgemacht
+hochfahren	fährt hoch	führe hoch	haben_hochgefahren
+umfliegen	umfliegt	umflöge	haben_umflogen
+entgehen	entgeht	entginge	sein_entgangen
+verunfallen	verunfallt	verunfallte	sein_verunfallt
+übersehen	übersieht	übersähe	haben_übersehen
+nachvollziehen	vollzieht nach	vollzöge nach	haben_nachvollzogen
+fertigmachen	macht fertig	machte fertig	haben_fertiggemacht
+verlesen	verliest	verläse	haben_verlesen
+mitbringen	bringt mit	brächte mit	haben_mitgebracht
+wegbegeben	begibt weg	begäbe weg	haben_wegbegeben
+herunterkommen	kommt herunter	käme herunter	sein_heruntergekommen
+bekennen	bekennt	bekennte	haben_bekannt
+zusehen	sieht zu	sähe zu	haben_zugesehen
+nachgeben	gibt nach	gäbe nach	haben_nachgegeben
+wegmachen	macht weg	machte weg	haben_weggemacht
+auffahren	fährt auf	führe auf	sein_aufgefahren
+hintanstellen	stellt hintan	stellte hintan	haben_hintangestellt
+hochkommen	kommt hoch	käme hoch	sein_hochgekommen
+abhandenkommen	kommt abhanden	käme abhanden	sein_abhandengekommen
+untersagen	untersagt	untersagte	haben_untersagt
+entziehen	entzieht	entzöge	haben_entzogen
+verabreden	verabredet	verabredete	haben_verabredet
+anschaffen	schafft an	schaffte an	haben_angeschafft
+vernehmen	vernimmt	vernähme	haben_vernommen
+abfragen	fragt ab	fragte ab	haben_abgefragt
+ersuchen	ersucht	ersuchte	haben_ersucht
+besagen	besagt	besagte	haben_besagt
+nachhelfen	hilft nach	hülfe nach	haben_nachgeholfen
+abbleiben	bleibt ab	bliebe ab	sein_abgeblieben
+nachlassen	lässt nach	ließe nach	haben_nachgelassen
+zurückziehen	zieht zurück	zöge zurück	haben_zurückgezogen
+vorbehalten	behält vor	behielte vor	haben_vorbehalten
+wohlfühlen	fühlt wohl	fühlte wohl	haben_wohlgefühlt
+vorüberfahren	fährt vorüber	führe vorüber	sein_vorübergefahren
+infrage stellen	stellt infrage	stellte infrage	haben_infrage gestellt
+erschaffen	erschafft	erschüfe	haben_erschaffen
+unternehmen	unternimmt	unternähme	haben_unternommen
+vertragen	verträgt	vertrüge	haben_vertragen
+umbestellen	bestellt um	bestellte um	haben_umbestellt
+hinlegen	legt hin	legte hin	haben_hingelegt
+Rad fahren	fährt Rad	führe Rad	sein_Rad gefahren
+herausgeben	gibt heraus	gäbe heraus	haben_herausgegeben
+widerstehen	widersteht	widerstände	haben_widerstanden
+gefangen nehmen	nimmt gefangen	nähme gefangen	haben_gefangen genommen
+schwellen	schwillt	schwölle	sein_geschwollen
+benennen	benennt	benennte	haben_benannt
+zeihen	zeiht	ziehe	haben_geziehen
+entfallen	entfällt	entfiele	sein_entfallen
+hinterlegen	hinterlegt	hinterlegte	haben_hinterlegt
+überfallen	überfällt	überfiele	haben_überfallen
+anreden	redet an	redete an	haben_angeredet
+vormachen	macht vor	machte vor	haben_vorgemacht
+absprechen	spricht ab	spräche ab	haben_abgesprochen
+stunden	stundet	stundete	haben_gestundet
+erlesen	erliest	erläse	haben_erlesen
+aufsitzen	sitzt auf	säße auf	haben_aufgesessen
+herunterspielen	spielt herunter	spielte herunter	haben_heruntergespielt
+feilhalten	hält feil	hielte feil	haben_feilgehalten
+aufführen	führt auf	führte auf	haben_aufgeführt
+verführen	verführt	verführte	haben_verführt
+durchfahren	durchfährt	durchführe	haben_durchfahren
+eintreffen	trifft ein	träfe ein	sein_eingetroffen
+herankommen	kommt heran	käme heran	sein_herangekommen
+mitgeben	gibt mit	gäbe mit	haben_mitgegeben
+ersitzen	ersitzt	ersäße	haben_ersessen
+fremdgehen	geht fremd	ginge fremd	sein_fremdgegangen
+bescheißen	bescheißt	beschisse	haben_beschissen
+weh tun	tut weh	täte weh	haben_weh getan
+ranlassen	lässt ran	ließe ran	haben_rangelassen
+verzeigen	verzeigt	verzeigte	haben_verzeigt
+herabsetzen	setzt herab	setzte herab	haben_herabgesetzt
+vertun	vertut	vertäte	haben_vertan
+hersollen	soll her	sollte her	haben_hergesollt
+durchsuchen	durchsucht	durchsuchte	haben_durchsucht
+vorlesen	liest vor	läse vor	haben_vorgelesen
+freistellen	stellt frei	stellte frei	haben_freigestellt
+wegbringen	bringt weg	brächte weg	haben_weggebracht
+verbrauchen	verbraucht	verbrauchte	haben_verbraucht
+auflegen	legt auf	legte auf	haben_aufgelegt
+erarbeiten	erarbeitet	erarbeitete	haben_erarbeitet
+gebieten	gebietet	geböte	haben_geboten
+umlegen	legt um	legte um	haben_umgelegt
+umerziehen	erzieht um	erzöge um	haben_umerzogen
+zurechtkommen	kommt zurecht	käme zurecht	sein_zurechtgekommen
+herziehen	zieht her	zöge her	sein_hergezogen
+entgegenarbeiten	arbeitet entgegen	arbeitete entgegen	haben_entgegengearbeitet
+erbringen	erbringt	erbrächte	haben_erbracht
+ausfragen	fragt aus	fragte aus	haben_ausgefragt
+misshandeln	misshandelt	misshandelte	haben_misshandelt
+überreden	überredet	überredete	haben_überredet
+ernennen	ernennt	ernennte	haben_ernannt
+krankschreiben	schreibt krank	schriebe krank	haben_krankgeschrieben
+überführen	überführt	überführte	haben_überführt
+ankennen	kennt an	kennte an	haben_angekannt
+vollscheißen	scheißt voll	schisse voll	haben_vollgeschissen
+zerfallen	zerfällt	zerfiele	sein_zerfallen
+abfliegen	fliegt ab	flöge ab	sein_abgeflogen
+abtun	tut ab	täte ab	haben_abgetan
+wallfahren	wallfahrt	wallfahrte	sein_gewallfahrt
+abbrauchen	braucht ab	brauchte ab	haben_abgebraucht
+überarbeiten	überarbeitet	überarbeitete	haben_überarbeitet
+nachbilden	bildet nach	bildete nach	haben_nachgebildet
+ausschaffen	schafft aus	schaffte aus	haben_ausgeschafft
+beauftragen	beauftragt	beauftragte	haben_beauftragt
+hinstellen	stellt hin	stellte hin	haben_hingestellt
+ankleben	klebt an	klebte an	haben_angeklebt
+freigeben	gibt frei	gäbe frei	haben_freigegeben
+missfallen	missfällt	missfiele	haben_missfallen
+stattgeben	gibt statt	gäbe statt	haben_stattgegeben
+ausbilden	bildet aus	bildete aus	haben_ausgebildet
+vorschreiben	schreibt vor	schriebe vor	haben_vorgeschrieben
+beistellen	stellt bei	stellte bei	haben_beigestellt
+niederschreiben	schreibt nieder	schriebe nieder	haben_niedergeschrieben
+hinkommen	kommt hin	käme hin	sein_hingekommen
+herzukommen	kommt herzu	käme herzu	sein_herzugekommen
+vorzeigen	zeigt vor	zeigte vor	haben_vorgezeigt
+zuschreiben	schreibt zu	schriebe zu	haben_zugeschrieben
+zurückbekommen	bekommt zurück	bekäme zurück	haben_zurückbekommen
+umsehen	sieht um	sähe um	haben_umgesehen
+verleben	verlebt	verlebte	haben_verlebt
+vollführen	vollführt	vollführte	haben_vollführt
+vorübergehen	geht vorüber	ginge vorüber	sein_vorübergegangen
+hinziehen	zieht hin	zöge hin	sein_hingezogen
+vorfühlen	fühlt vor	fühlte vor	haben_vorgefühlt
+nachfühlen	fühlt nach	fühlte nach	haben_nachgefühlt
+befühlen	befühlt	befühlte	haben_befühlt
+mitfühlen	fühlt mit	fühlte mit	haben_mitgefühlt
+anfühlen	fühlt an	fühlte an	haben_angefühlt
+erfühlen	erfühlt	erfühlte	haben_erfühlt
+einsagen	sagt ein	sagte ein	haben_eingesagt
+feilbieten	bietet feil	böte feil	haben_feilgeboten
+leidtun	tut leid	täte leid	haben_leidgetan
+loslassen	lässt los	ließe los	haben_losgelassen
+anfinden	findet an	fände an	haben_angefunden
+aufbleiben	bleibt auf	bliebe auf	sein_aufgeblieben
+nachgehen	geht nach	ginge nach	sein_nachgegangen
+herausnehmen	nimmt heraus	nähme heraus	haben_herausgenommen
+zurückverfolgen	verfolgt zurück	verfolgte zurück	haben_zurückverfolgt
+verstellen	verstellt	verstellte	haben_verstellt
+festschreiben	schreibt fest	schriebe fest	haben_festgeschrieben
+einschreiben	schreibt ein	schriebe ein	haben_eingeschrieben
+haushalten	haushaltet	haushaltete	haben_gehaushaltet
+kleinreden	redet klein	redete klein	haben_kleingeredet
+aufspielen	spielt auf	spielte auf	haben_aufgespielt
+aufschließen	schließt auf	schlösse auf	haben_aufgeschlossen
+zuschließen	schließt zu	schlösse zu	haben_zugeschlossen
+großziehen	zieht groß	zöge groß	haben_großgezogen
+einmachen	macht ein	machte ein	haben_eingemacht
+kaputtmachen	macht kaputt	machte kaputt	haben_kaputtgemacht
+dastehen	steht da	stünde da	haben_dagestanden
+vorliebnehmen	nimmt vorlieb	nähme vorlieb	haben_vorliebgenommen
+zunichtemachen	macht zunichte	machte zunichte	haben_zunichtegemacht
+dartun	tut dar	täte dar	haben_dargetan
+auskommentieren	kommentiert aus	kommentierte aus	haben_auskommentiert
+nasführen	nasführt	nasführte	haben_genasführt
+auslegen	legt aus	legte aus	haben_ausgelegt
+freimachen	macht frei	machte frei	haben_freigemacht
+nachsehen	sieht nach	sähe nach	haben_nachgesehen
+großschreiben	schreibt groß	schriebe groß	haben_großgeschrieben
+begeben	begibt	begäbe	haben_begeben
+aufsehen	sieht auf	sähe auf	haben_aufgesehen
+liebbehalten	behält lieb	behielte lieb	haben_liebbehalten
+lieb behalten	behält lieb	behielte lieb	haben_lieb behalten
+antun	tut an	täte an	haben_angetan
+überziehen	zieht über	zöge über	haben_übergezogen
+anschalten	schaltet an	schaltete an	haben_angeschaltet
+vorlassen	lässt vor	ließe vor	haben_vorgelassen
+ähnlichsehen	sieht ähnlich	sähe ähnlich	haben_ähnlichgesehen
+preisgeben	gibt preis	gäbe preis	haben_preisgegeben
+widersetzen	widersetzt	widersetzte	haben_widersetzt
+beiwohnen	wohnt bei	wohnte bei	haben_beigewohnt
+aufschreiben	schreibt auf	schriebe auf	haben_aufgeschrieben
+voranbringen	bringt voran	brächte voran	haben_vorangebracht
+darniederliegen	liegt darnieder	läge darnieder	haben_darniedergelegen
+daheimbleiben	bleibt daheim	bliebe daheim	sein_daheimgeblieben
+aufarbeiten	arbeitet auf	arbeitete auf	haben_aufgearbeitet
+stillstehen	steht still	stände still	haben_stillgestanden
+uraufführen	uraufführt	uraufführte	haben_uraufgeführt
+verfliegen	verfliegt	verflöge	haben_verflogen
+durchmachen	macht durch	machte durch	haben_durchgemacht
+durchgehen	geht durch	ginge durch	sein_durchgegangen
+abführen	führt ab	führte ab	haben_abgeführt
+gutheißen	heißt gut	hieße gut	haben_gutgeheißen
+wichtigmachen	macht wichtig	machte wichtig	haben_wichtiggemacht
+zugrunde liegen	liegt zugrunde	läge zugrunde	haben_zugrunde gelegen
+zu Grunde liegen	liegt zu Grunde	läge zu Grunde	haben_zu Grunde gelegen
+eintunken	tunkt ein	tunkte ein	haben_eingetunkt
+drausbringen	bringt draus	brächte draus	haben_drausgebracht
+strammstehen	steht stramm	stände stramm	haben_strammgestanden
+standhalten	hält stand	hielte stand	haben_standgehalten
+überhandnehmen	nimmt überhand	nähme überhand	haben_überhandgenommen
+verfahren	verfährt	verführe	haben_verfahren
+wiedererkennen	erkennt wieder	erkennte wieder	haben_wiedererkannt
+verfehlen	verfehlt	verfehlte	haben_verfehlt
+aufscheinen	scheint auf	schiene auf	sein_aufgeschienen
+vonstattengehen	geht vonstatten	ginge vonstatten	sein_vonstattengegangen
+lahmlegen	legt lahm	legte lahm	haben_lahmgelegt
+stilllegen	legt still	legte still	haben_stillgelegt
+wohlwollen	will wohl	wollte wohl	haben_wohlgewollt
+durchziehen	zieht durch	zöge durch	haben_durchgezogen
+durchsagen	sagt durch	sagte durch	haben_durchgesagt
+mitgehen	geht mit	ginge mit	sein_mitgegangen
+eingestehen	gesteht ein	gestände ein	haben_eingestanden
+nachstellen	stellt nach	stellte nach	haben_nachgestellt
+daniederliegen	liegt danieder	läge danieder	haben_daniedergelegen
+bereitstehen	steht bereit	stünde bereit	haben_bereitgestanden
+festfragen	festfragt	festfragte	haben_gefestfragt
+kehrtmachen	macht kehrt	machte kehrt	haben_kehrtgemacht
+dazusagen	sagt dazu	sagte dazu	haben_dazugesagt
+freihalten	hält frei	hielte frei	haben_freigehalten
+näherkommen	kommt näher	käme näher	sein_nähergekommen
+mitspielen	spielt mit	spielte mit	haben_mitgespielt
+tunneln	tunnelt	tunnelte	haben_getunnelt
+draufkommen	kommt drauf	käme drauf	sein_draufgekommen
+richtigliegen	liegt richtig	läge richtig	haben_richtiggelegen
+aufrechterhalten	erhält aufrecht	erhielte aufrecht	haben_aufrechterhalten
+flachlegen	legt flach	legte flach	haben_flachgelegt
+schwarzfahren	fährt schwarz	führe schwarz	sein_schwarzgefahren
+schwarzarbeiten	arbeitet schwarz	arbeitete schwarz	haben_schwarzgearbeitet
+anfallen	fällt an	fiele an	haben_angefallen
+aufwarten	wartet auf	wartete auf	haben_aufgewartet
+henken	henkt	henkte	haben_gehenkt
+warmhalten	hält warm	hielte warm	haben_warmgehalten
+zustellen	stellt zu	stellte zu	haben_zugestellt
+einlegen	legt ein	legte ein	haben_eingelegt
+zubringen	bringt zu	brächte zu	haben_zugebracht
+austragen	trägt aus	trüge aus	haben_ausgetragen
+wegkommen	kommt weg	käme weg	haben_weggekommen
+weitergeben	gibt weiter	gäbe weiter	haben_weitergegeben
+aufsagen	sagt auf	sagte auf	haben_aufgesagt
+heranmachen	macht heran	machte heran	haben_herangemacht
+gestehen	gesteht	gestände	haben_gestanden
+glattstellen	stellt glatt	stellte glatt	haben_glattgestellt
+bankrottgehen	geht bankrott	ginge bankrott	sein_bankrottgegangen
+beiseitelassen	lässt beiseite	ließe beiseite	haben_beiseitegelassen
+nachsprechen	spricht nach	spräche nach	haben_nachgesprochen
+überschreiben	überschreibt	überschriebe	haben_überschrieben
+ausstehen	steht aus	stünde aus	haben_ausgestanden
+zupassekommen	kommt zupasse	käme zupasse	sein_zupassegekommen
+zupasskommen	kommt zupass	käme zupass	sein_zupassgekommen
+vorspielen	spielt vor	spielte vor	haben_vorgespielt
+totmachen	macht tot	machte tot	haben_totgemacht
+heimkommen	kommt heim	käme heim	sein_heimgekommen
+erschreiben	erschreibt	erschriebe	haben_erschrieben
+draufstellen	stellt drauf	stellte drauf	haben_draufgestellt
+freisprechen	spricht frei	spräche frei	haben_freigesprochen
+einstehen	steht ein	stünde ein	haben_eingestanden
+vergelten	vergilt	vergälte	haben_vergolten
+unterbringen	bringt unter	brächte unter	haben_untergebracht
+weitermachen	macht weiter	machte weiter	haben_weitergemacht
+einleben	lebt ein	lebte ein	haben_eingelebt
+entstellen	entstellt	entstellte	haben_entstellt
+missbrauchen	missbraucht	missbrauchte	haben_missbraucht
+beibleiben	bleibt bei	bliebe bei	sein_beigeblieben
+zusammenziehen	zieht zusammen	zöge zusammen	haben_zusammengezogen
+festfahren	fährt fest	führe fest	haben_festgefahren
+einbilden	bildet ein	bildete ein	haben_eingebildet
+zusammenstellen	stellt zusammen	stellte zusammen	haben_zusammengestellt
+dergeben	dergibt	<small>(dergäbe)</small>	haben_dergeben
+weiterfahren	fährt weiter	führe weiter	sein_weitergefahren
+stehenbleiben	bleibt stehen	bliebe stehen	sein_stehengeblieben
+abhersagen	sagt abher	sagte abher	haben_abhergesagt
+hineingehen	geht hinein	ginge hinein	sein_hineingegangen
+einhinfahren	fährt einhin	führe einhin	sein_einhingefahren
+umeinanderstehen	steht umeinander	stünde umeinander	sein_umeinandergestanden
+entfahren	entfährt	entführe	sein_entfahren
+unterlegen	unterlegt	unterlegte	haben_unterlegt
+unterliegen	unterliegt	unterläge	haben_unterlegen
+umeinanderliegen	liegt umeinander	läge umeinander	sein_umeinandergelegene
+abhinfallen	fällt abhin	fiele abhin	sein_abhingefallen
+einsitzen	sitzt ein	säße ein	haben_eingesessen
+Laut geben	gibt Laut	gäbe Laut	haben_Laut gegeben
+bescheinen	bescheint	beschiene	haben_beschienen
+klarstellen	stellt klar	stellte klar	haben_klargestellt
+entsagen	entsagt	entsagte	haben_entsagt
+weiterhelfen	hilft weiter	hülfe weiter	haben_weitergeholfen
+schief liegen	liegt schief	läge schief	haben_schief gelegen
+heimsuchen	sucht heim	suchte heim	haben_heimgesucht
+naheliegen	liegt nahe	läge nahe	haben_nahegelegen
+mithelfen	hilft mit	hülfe mit	haben_mitgeholfen
+ausleben	lebt aus	lebte aus	haben_ausgelebt
+zurückgewinnen	gewinnt zurück	gewönne zurück	haben_zurückgewonnen
+irreführen	führt irre	führte irre	haben_irregeführt
+mitfahren	fährt mit	führe mit	sein_mitgefahren
+fortleben	lebt fort	lebte fort	haben_fortgelebt
+hergehen	geht her	ginge her	sein_hergegangen
+besehen	besieht	besähe	haben_besehen
+befahren	befährt	beführe	haben_befahren
+nahelegen	legt nahe	legte nahe	haben_nahegelegt
+vorankommen	kommt voran	käme voran	sein_vorangekommen
+Bescheid sagen	sagt Bescheid	sagte Bescheid	haben_Bescheid gesagt
+aufbrauchen	braucht auf	brauchte auf	haben_aufgebraucht
+durchliegen	liegt durch	läge durch	haben_durchgelegen
+Acht geben	gibt Acht	gäbe Acht	haben_Acht gegeben
+aushelfen	hilft aus	hülfe aus	haben_ausgeholfen
+zurückliegen	liegt zurück	läge zurück	haben_zurückgelegen
+stehen bleiben	bleibt stehen	bliebe stehen	sein_stehen geblieben
+achtgeben	gibt acht	gäbe acht	haben_achtgegeben
+anschreiben	schreibt an	schriebe an	haben_angeschrieben
+vorhersagen	sagt vorher	sagte vorher	haben_vorhergesagt
+strafversetzen	—	—	haben_strafversetzt
+mitmachen	macht mit	machte mit	haben_mitgemacht
+kennen lernen	lernt kennen	lernte kennen	haben_kennen gelernt
+vorausfahren	fährt voraus	führe voraus	sein_vorausgefahren
+abhingehen	geht abhin	ginge abhin	sein_abhingegangen
+verkennen	verkennt	verkennte	haben_verkannt
+freinehmen	nimmt frei	nähme frei	haben_freigenommen
+einarbeiten	arbeitet ein	arbeitete ein	haben_eingearbeitet
+verheißen	verheißt	verhieße	haben_verheißen
+überstellen	überstellt	überstellte	haben_überstellt
+rüberkommen	kommt rüber	käme rüber	sein_rübergekommen
+festnehmen	nimmt fest	nähme fest	haben_festgenommen
+abmachen	macht ab	machte ab	haben_abgemacht
+voraussetzen	setzt voraus	setzte voraus	haben_vorausgesetzt
+abgewinnen	gewinnt ab	gewänne ab	haben_abgewonnen
+abschalten	schaltet ab	schaltete ab	haben_abgeschaltet
+ausscheißen	scheißt aus	schisse aus	haben_ausgeschissen
+fertigstellen	stellt fertig	stellte fertig	haben_fertiggestellt
+wiederfinden	findet wieder	fände wieder	haben_wiedergefunden
+einscheißen	scheißt ein	schisse ein	haben_eingeschissen
+wiedersehen	sieht wieder	sähe wieder	haben_wiedergesehen
+heimführen	führt heim	führte heim	haben_heimgeführt
+auskennen	kennt aus	kennte aus	haben_ausgekannt
+näherbringen	bringt näher	brächte näher	haben_nähergebracht
+verscheißen	verscheißt	verschisse	haben_verschissen
+durchnehmen	nimmt durch	nähme durch	haben_durchgenommen
+erspielen	erspielt	erspielte	haben_erspielt
+heraufgehen	geht herauf	ginge herauf	sein_heraufgegangen
+herauffahren	fährt herauf	führe herauf	sein_heraufgefahren
+reinlassen	lässt rein	ließe rein	haben_reingelassen
+ausliegen	liegt aus	läge aus	haben_ausgelegen
+nachmachen	macht nach	machte nach	haben_nachgemacht
+zufallen	fällt zu	fiele zu	sein_zugefallen
+zergehen	zergeht	zerginge	sein_zergangen
+abringen	ringt ab	ränge ab	haben_abgerungen
+entfolgen	entfolgt	entfolgte	haben_entfolgt
+hinarbeiten	arbeitet hin	arbeitete hin	haben_hingearbeitet
+überstehen	übersteht	überstände	haben_überstanden
+anerziehen	erzieht an	erzöge an	haben_anerzogen
+klargehen	geht klar	ginge klar	sein_klargegangen
+anführen	führt an	führte an	haben_angeführt
+niederkommen	kommt nieder	käme nieder	sein_niedergekommen
+aufbieten	bietet auf	böte auf	haben_aufgeboten
+trockenlegen	legt trocken	legte trocken	haben_trockengelegt
+hinzuziehen	zieht hinzu	zöge hinzu	haben_hinzugezogen
+vorbeiziehen	zieht vorbei	zöge vorbei	sein_vorbeigezogen
+willfahren	willfahrt	willfahre	haben_gewillfahrt
+aufsuchen	sucht auf	suchte auf	haben_aufgesucht
+hinabsehen	sieht hinab	sähe hinab	haben_hinabgesehen
+heiligsprechen	spricht heilig	spräche heilig	haben_heiliggesprochen
+zerlesen	zerliest	zerlas	haben_zerlesen
+hineinsehen	sieht hinein	sähe hinein	haben_hineingesehen
+hingehen	geht hin	ginge hin	sein_hingegangen
+guttun	tut gut	täte gut	haben_gutgetan
+heranfahren	fährt heran	führe heran	sein_herangefahren
+rankommen	kommt ran	käme ran	sein_rangekommen
+schiefgehen	geht schief	ginge schief	sein_schiefgegangen
+hochziehen	zieht hoch	zöge hoch	haben_hochgezogen
+übereinkommen	kommt überein	käme überein	sein_übereingekommen
+niedersetzen	setzt nieder	setzte nieder	haben_niedergesetzt
+krankmachen	macht krank	machte krank	haben_krankgemacht
+zuführen	führt zu	führte zu	haben_zugeführt
+abhelfen	hilft ab	hülfe ab	haben_abgeholfen
+zurücklegen	legt zurück	legte zurück	haben_zurückgelegt
+runtergehen	geht runter	ginge runter	sein_runtergegangen
+losgehen	geht los	ginge los	sein_losgegangen
+überbringen	überbringt	überbrächte	haben_überbracht
+abwohnen	wohnt ab	wohnte ab	haben_abgewohnt
+entsetzen	entsetzt	entsetzte	haben_entsetzt
+fortführen	führt fort	führte fort	haben_fortgeführt
+zusammenführen	führt zusammen	führte zusammen	haben_zusammengeführt
+nachsitzen	sitzt nach	säße nach	haben_nachgesessen
+einspielen	spielt ein	spielte ein	haben_eingespielt
+verzählen	verzählt	verzählte	haben_verzählt
+nacharbeiten	arbeitet nach	arbeitete nach	haben_nachgearbeitet
+vorfahren	fährt vor	führe vor	haben_vorgefahren
+alleinstehen	steht allein	stände allein	haben_alleingestanden
+vorführen	führt vor	führte vor	haben_vorgeführt
+übertreffen	übertrifft	überträfe	haben_übertroffen
+zulegen	legt zu	legte zu	haben_zugelegt
+einlernen	lernt ein	lernte ein	haben_eingelernt
+herunterfahren	fährt herunter	führe herunter	haben_heruntergefahren
+fernhalten	hält fern	hielte fern	haben_ferngehalten
+zusammenfallen	fällt zusammen	fiele zusammen	sein_zusammengefallen
+offenlegen	legt offen	legte offen	haben_offengelegt
+nachkommen	kommt nach	käme nach	sein_nachgekommen
+nachbehandeln	behandelt nach	behandelte nach	haben_nachbehandelt
+aberziehen	erzieht ab	erzöge ab	haben_aberzogen
+nachbringen	bringt nach	brächte nach	haben_nachgebracht
+hineinschreiben	schriebt hinein	schriebe hinein	haben_hineingeschrieben
+reinschreiben	schreibt rein	schriebe rein	haben_reingeschrieben
+nachempfinden	empfindet nach	empfände nach	haben_nachempfunden
+ablesen	liest ab	läse ab	haben_abgelesen
+durchlesen	liest durch	läse durch	haben_durchgelesen
+durcharbeiten	arbeitet durch	arbeitete durch	haben_durchgearbeitet
+mitarbeiten	arbeitet mit	arbeitete mit	haben_mitgearbeitet
+zuarbeiten	arbeitet zu	arbeitete zu	haben_zugearbeitet
+durchbringen	bringt durch	brächte durch	haben_durchgebracht
+aussuchen	sucht aus	suchte aus	haben_ausgesucht
+einhalten	hält ein	hielte ein	haben_eingehalten
+zersetzen	zersetzt	zersetzte	haben_zersetzt
+antreffen	trifft an	träfe an	haben_angetroffen
+bereden	beredet	beredete	haben_beredet
+richtigstellen	stellt richtig	stellte richtig	haben_richtiggestellt
+abschwellen	schwillt ab	schwölle ab	sein_abgeschwollen
+anschwellen	schwillt an	schwölle an	sein_angeschwollen
+drankommen	kommt dran	käme dran	sein_drangekommen
+weiterfliegen	fliegt weiter	flöge weiter	sein_weitergeflogen
+angehören	gehört an	gehörte an	haben_angehört
+festmachen	macht fest	machte fest	haben_festgemacht
+vollbringen	vollbringt	vollbrächte	haben_vollbracht
+zusammenschließen	schließt zusammen	schlösse zusammen	haben_zusammengeschlossen
+tunken	tunkt	tunkte	haben_getunkt
+segelfliegen	—	—	sein_segelgeflogen
+flottkommen	kommt flott	käme flott	sein_flottgekommen
+tunen	tunt	tunte	haben_getunt
+erliegen	erliegt	erläge	sein_erlegen
+instand setzen	setzt instand	setzte instand	haben_instandgesetzt
+willkommen heißen	heißt willkommen	hieße willkommen	haben_willkommen geheißen
+altmachen	macht alt	machte alt	haben_altgemacht
+armmachen	macht arm	machte arm	haben_armgemacht
+zustehen	steht zu	stünde zu	haben_zugestanden
+vorliegen	liegt vor	läge vor	haben_vorgelegen
+entlangfahren	fährt entlang	führe entlang	sein_entlanggefahren
+entlangfliegen	fliegt entlang	flöge entlang	sein_entlanggeflogen
+sattsehen	sieht satt	sähe satt	haben_sattgesehen
+plattmachen	macht platt	machte platt	haben_plattgemacht
+bekleben	beklebt	beklebte	haben_beklebt
+offenstehen	steht offen	stünde offen	haben_offengestanden
+bespielen	bespielt	bespielte	haben_bespielt
+besserstellen	stellt besser	stellte besser	haben_bessergestellt
+zugestehen	gesteht zu	gestände zu	haben_zugestanden
+zureden	redet zu	redete zu	haben_zugeredet
+nachtragen	trägt nach	trüge nach	haben_nachgetragen
+befliegen	befliegt	beflöge	haben_beflogen
+bemachen	bemacht	bemachte	haben_bemacht
+schlechtreden	redet schlecht	redete schlecht	haben_schlechtgeredet
+beschalten	beschaltet	beschaltete	haben_beschaltet
+bleibenlassen	lässt bleiben	ließe bleiben	haben_bleibengelassen
+geschehen lassen	lässt geschehen	ließe geschehen	haben_geschehen lassen
+zurücklassen	lässt zurück	ließe zurück	haben_zurückgelassen
+emporfahren	fährt empor	führe empor	sein_emporgefahren
+bezeigen	bezeigt	bezeigte	haben_bezeigt
+betun	betut	betäte	haben_betan
+belernen	belernt	belernte	haben_belernt
+vorstehen	steht vor	stünde vor	haben_vorgestanden
+überhelfen	überhilft	überhülfe	haben_überholfen
+frei geben	gibt frei	gäbe frei	haben_frei gegeben
+anheimfallen	fällt anheim	fiele anheim	sein_anheimgefallen
+verhelfen	verhilft	verhälfe	haben_verholfen
+ergehen	ergeht	erginge	haben_ergangen
+danebenbenehmen	benimmt daneben	benähme daneben	haben_danebenbenommen
+müßiggehen	geht müßig	ginge müßig	sein_müßiggegangen
+ersehen	ersieht	ersähe	haben_ersehen
+dichthalten	hält dicht	hielte dicht	haben_dichtgehalten
+erstinken	erstinkt	erstänke	sein_erstunken
+hochspielen	spielt hoch	spielte hoch	haben_hochgespielt
+erlernen	erlernt	erlernte	haben_erlernt
+herkommen	kommt her	käme her	sein_hergekommen
+erfliegen	erfliegt	erflöge	haben_erflogen
+erzeigen	erzeigt	erzeigte	haben_erzeigt
+durcheinanderbringen	bringt durcheinander	brächte durcheinander	haben_durcheinandergebracht
+erhandeln	erhandelt	erhandelte	haben_erhandelt
+aufwärtsfahren	fährt aufwärts	führe aufwärts	sein_aufwärtsgefahren
+abwärtsfahren	fährt abwärts	führe abwärts	sein_abwärtsgefahren
+widersagen	widersagt	widersagte	haben_widersagt
+widerreden	widerredet	widerredete	haben_widerredet
+widerscheinen	scheint wider	schiene wider	haben_widergeschienen
+klarkommen	kommt klar	käme klar	sein_klargekommen
+klarlegen	legt klar	legte klar	haben_klargelegt
+klarmachen	macht klar	machte klar	haben_klargemacht
+entgelten	entgilt	entgälte	haben_entgolten
+kleinhalten	hält klein	hielte klein	haben_kleingehalten
+Benutzer:Udo T./gehen	geht	ginge	sein_gegangen
+schwerfallen	fällt schwer	fiele schwer	sein_schwergefallen
+absehen	sieht ab	sähe ab	haben_abgesehen
+auseinanderhalten	hält auseinander	hielte auseinander	haben_auseinandergehalten
+herhalten	hält her	hielte her	haben_hergehalten
+vorenthalten	enthält vor	enthielte vor	haben_vorenthalten
+zuhalten	hält zu	hielte zu	haben_zugehalten
+mithalten	hält mit	hielte mit	haben_mitgehalten
+stillhalten	hält still	hielte still	haben_stillgehalten
+vorhalten	hält vor	hielte vor	haben_vorgehalten
+zurückbehalten	behält zurück	behielte zurück	haben_zurückbehalten
+beibehalten	behält bei	behielte bei	haben_beibehalten
+heraushalten	hält heraus	hielte heraus	haben_herausgehalten
+zusammenhalten	hält zusammen	hielte zusammen	haben_zusammengehalten
+bereithalten	hält bereit	hielte bereit	haben_bereitgehalten
+hochgehen	geht hoch	ginge hoch	sein_hochgegangen
+wegfallen	fällt weg	fiele weg	sein_weggefallen
+hinaufgehen	geht hinauf	ginge hinauf	sein_hinaufgegangen
+zukommen	kommt zu	käme zu	sein_zugekommen
+unterkommen	kommt unter	käme unter	sein_untergekommen
+freischalten	schaltet frei	schaltete frei	haben_freigeschaltet
+nahebringen	bringt nahe	brächte nahe	haben_nahegebracht
+bekanntgeben	gibt bekannt	gäbe bekannt	haben_bekanntgegeben
+bekannt geben	gibt bekannt	gäbe bekannt	haben_bekannt gegeben
+auffliegen	fliegt auf	flöge auf	sein_aufgeflogen
+zuwiderhandeln	handelt zuwider	handelte zuwider	haben_zuwidergehandelt
+auseinandergehen	geht auseinander	ginge auseinander	sein_auseinandergegangen
+daherreden	redet daher	redete daher	haben_dahergeredet
+entzweigehen	geht entzwei	ginge entzwei	sein_entzweigegangen
+schlechtmachen	macht schlecht	machte schlecht	haben_schlechtgemacht
+aufeinanderfolgen	folgt aufeinander	folgte aufeinander	sein_aufeinandergefolgt
+herangehen	geht heran	ginge heran	sein_herangegangen
+voranstellen	stellt voran	stellte voran	haben_vorangestellt
+nahestehen	steht nahe	stände nahe	haben_nahegestanden
+auslernen	lernt aus	lernte aus	haben_ausgelernt
+nachbestellen	bestellt nach	bestellte nach	haben_nachbestellt
+auseinandernehmen	nimmt auseinander	nähme auseinander	haben_auseinandergenommen
+entgegenbringen	bringt entgegen	brächte entgegen	haben_entgegengebracht
+dazwischenfahren	fährt dazwischen	führe dazwischen	sein_dazwischengefahren
+kurzarbeiten	arbeitet kurz	arbeitete kurz	haben_kurzgearbeitet
+wiedergutmachen	macht wieder gut	machte wieder gut	haben_wiedergutgemacht
+mitbekommen	bekommt mit	bekäme mit	haben_mitbekommen
+zurückführen	führt zurück	führte zurück	haben_zurückgeführt
+vorsagen	sagt vor	sagte vor	haben_vorgesagt
+verschüttgehen	geht verschütt	ginge verschütt	sein_verschüttgegangen
+verlorengehen	geht verloren	ginge verloren	sein_verlorengegangen
+nachbesetzen	besetzt nach	besetzte nach	haben_nachbesetzt
+abwetzen	wetzt ab	wetzte ab	haben<!--Das in einigen Standardreferenzen angegebene Hilfsverb „sein“ gehört zu einer weiteren Bedeutung-->_abgewetzt
+beiliegen	liegt bei	läge bei	haben_beigelegen
+darbieten	bietet dar	böte dar	haben_dargeboten
+nebeneinanderlegen	legt nebeneinander	legte nebeneinander	haben_nebeneinandergelegt
+aneinanderlegen	legt aneinander	legte aneinander	haben_aneinandergelegt
+hinterziehen	hinterzieht	hinterzöge	haben_hinterzogen
+überbieten	überbietet	überböte	haben_überboten
+zusammenschreiben	schreibt zusammen	schriebe zusammen	haben_zusammengeschrieben
+durchkommen	kommt durch	käme durch	sein_durchgekommen
+allemachen	macht alle	machte alle	haben_allegemacht
+kaltmachen	macht kalt	machte kalt	haben_kaltgemacht
+vorfinden	findet vor	fände vor	haben_vorgefunden
+vorsetzen	setzt vor	setzte vor	haben_vorgesetzt
+zutreffen	trifft zu	träfe zu	haben_zugetroffen
