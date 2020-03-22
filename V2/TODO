@@ -1,0 +1,5 @@
+Sun Mar 22 20:28:01 CET 2020
+Toca obtener la lista de los verbos que se encuentra en el archivo
+<list_frequent_verben> y obtener la traduccion en espanol. Esta traduccion
+debe ser concatenada en el archivo anterior, creando la base de datos para
+jugar el juego de los verbos.
